@@ -1,0 +1,7 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+logs/
+# regenerated in seconds, deterministically: python -m grayscott.data
+data/
